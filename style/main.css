@@ -1,0 +1,16 @@
+body
+{
+	background: #22385E;
+	font-family: Arial, sans-serif;
+	margin: 0;
+}
+
+#status
+{
+	color: #E8FAFC;
+	font-size: 1em;
+	font-weight: bold;
+	margin: 1em 0;
+	text-align: center;
+	width: 100%;
+}
